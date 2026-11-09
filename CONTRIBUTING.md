@@ -29,7 +29,7 @@ Feature ideas are welcome. Open an issue describing the problem you're trying to
 
 ## Submitting a pull request
 
-1. Fork the repository and create a branch from the default branch.
+1. Fork the repository and create a branch from the main branch.
 2. Make your changes, following the existing code style and conventions in that repository.
 3. Add or update tests where it makes sense.
 4. Update any documentation affected by your change.
